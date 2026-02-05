@@ -1,5 +1,5 @@
 {
-    "host": "scoresmp-zFxf.aternos.me:20945", 
+    "host": "scoresmp-zFxf.aternos.me", 
     "port": 20945,
     "username": "AFK_Pro_Bot",
     "version": "1.21.11",
@@ -11,4 +11,5 @@
         "Server is active! 🚀",
         "Hello everyone!"
     ]
+
 }
